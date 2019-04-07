@@ -1,0 +1,8 @@
+#urxvt settings
+#URxvt.font: xft:Droid\ Sans\ Mono\ Nerd\ Font\ Complete:pixelsize=12
+#URxvt.foreground: #D8DEE9
+#URxvt.background: #2E3440
+*.cursorColor: #D8DEE9
+URxvt.scrollBar: false
+#URxvt.transparent: true
+URxvt.shading: 15
